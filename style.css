@@ -1,0 +1,18 @@
+/*
+css\style.css
+Folhas de estilo globais
+*/
+
+/* Reset no CSS para se igualar ena maioria dos navegadores */
+
+* {
+    outline: none;
+    box-sizing: border-box;
+}
+
+html, body {
+    /* Fonte padrão */
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    /* Cria a unidade de medida "rem" 1rem = 16px */
+    font-size: 16px;
+}
